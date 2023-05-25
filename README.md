@@ -9,7 +9,7 @@
 
   Ｗhen instantiating the api you can specify a host and a port, as well as default generation options．
   ```js
-  import ooba from 'oobap-ws'
+  import ooba from 'oobapi-ws'
   const generation_options = {max_new_tokens: 1000}
   const host = 'remote.host.net'
   const port = 1337
