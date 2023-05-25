@@ -1,4 +1,4 @@
-#oobapi-ws
+# oobapi-ws
 [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) websocket api wrapper
 
   This is a simple isomorphic wrapper for the oobabooga websocket api (must be enabled when [launching ooba](https://github.com/oobabooga/text-generation-webui#api) with `--api`)
