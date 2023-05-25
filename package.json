@@ -1,6 +1,6 @@
 {
   "name": "oobapi-ws",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "oobabooga/text-generation-webui websocket api wrapper",
   "main": "oobapi-ws.mjs",
   "scripts": {
