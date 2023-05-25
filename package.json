@@ -1,0 +1,35 @@
+{
+  "name": "oobapi-ws",
+  "version": "1.0.0",
+  "description": "oobabooga/text-generation-webui websocket api wrapper",
+  "main": "oobapi-ws.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thot-experiment/oobapi-ws.git"
+  },
+  "keywords": [
+    "oobabooga",
+    "llm",
+    "chat",
+    "text",
+    "generation",
+    "webui",
+    "llama",
+    "alpaca",
+    "large",
+    "language",
+    "model"
+  ],
+  "author": "thot-experiment",
+  "license": "MIT",
+  "devDependencies": {
+    "ws": "^8.13.0"
+  },
+  "bugs": {
+    "url": "https://github.com/thot-experiment/oobapi-ws/issues"
+  },
+  "homepage": "https://github.com/thot-experiment/oobapi-ws#readme"
+}
