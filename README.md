@@ -19,7 +19,7 @@
   ```js
   const api = await ooba(WebSocket)()
   ```
-  this promise will return once a websocket connection to 'localhost:5005' is established
+  this promise will return once a websocket connection to `localhost:5005` is established
 
   in order to generate text simply call `api.generate()` with a prompt
   ```js
@@ -40,7 +40,7 @@
   })
   ```
 
-  additionally, the default 'parameters' object is exposed as a property of the 'api' object and can be freely modified to change the default parameters after instantiation
+  additionally, the default `parameters` object is exposed as a property of the `api` object and can be freely modified to change the default parameters after instantiation
   ```js
   api.parameters.max_new_tokens = 1000
   ```
